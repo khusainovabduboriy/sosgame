@@ -664,6 +664,7 @@ line-height: 18px;
     }
     .bottom input{
         width: 100%;
+        margin-bottom: 20px;
     }
     .bottom button{
         width: 50%;
@@ -680,7 +681,7 @@ margin-left: 15px;
         line-height: 22px;
     }
     .btlogo{
-        margin: auto;
+        margin: 0 auto 0 17px;
     }
   
 }
